@@ -1,0 +1,45 @@
+author: "Pedro Báez Marín"
+date: '2022-05-11'
+output: 
+  html_document:
+    toc: true
+    toc_depth: 5
+    toc_float:
+      collapsed: false
+      smooth_scroll: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Presentación  
+
+## Entradas  
+
+## Datos generales de casos  
+
+## Procesamiento  
+
+## Opciones generales  
+
+## Curación de datos  
+
+## Salida  
+
+### Casos acumulados a nivel nacional  
+
+#### Tabla  
+
+#### Gráfico d elíneas  
+
+#### Casos a nivel cantonal  
+
+###### Positivos  
+
+###### Tabla  
+
+###### Gráfrico de barras  
+
+
+
