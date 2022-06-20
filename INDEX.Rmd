@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Presentación  
 
-## Entradas  
+## Entradas  a
 
 ## Datos generales de casos  
 
